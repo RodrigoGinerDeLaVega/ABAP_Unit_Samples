@@ -6,4 +6,4 @@ ABAP Unit Samples, used in BA SAPers May 2022 meeting.
 * Dependency using TEST-SEAM [Class](src/ycl_abap_unit_depen_test_seam.clas.abap) - [Test Class](src/ycl_abap_unit_depen_test_seam.clas.testclasses.abap)
 * Dependency using Constructor Injection: [Class](src/ycl_abap_unit_depen_construc.clas.abap) - [Test Class](src/ycl_abap_unit_depen_construc.clas.testclasses.abap)
 * Dependency using Parameter Injection: [Class](src/ycl_abap_unit_depen_param.clas.abap) - [Test Class](src/ycl_abap_unit_depen_param.clas.testclasses.abap)
-* Dependency - using Backdoor/Private Injection: [Class](src/ycl_abap_unit_depen_backdoor.clas.abap) - [Test Class](src/ycl_abap_unit_depen_backdoor.clas.testclasses.abap)
+* Dependency using Backdoor/Private Injection: [Class](src/ycl_abap_unit_depen_backdoor.clas.abap) - [Test Class](src/ycl_abap_unit_depen_backdoor.clas.testclasses.abap)
